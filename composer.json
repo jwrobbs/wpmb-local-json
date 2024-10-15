@@ -1,0 +1,7 @@
+{
+    "name": "jwrobbs/wpmb-local-json",
+    "description": "Activates ACF's Local JSON and provides a home for files. The README has important notes. (WordPress plugin)",
+    "type": "wordpress-plugin",
+	"version": "0.1.0",
+    "require": {}
+}
