@@ -1,6 +1,9 @@
 # wpmb-local-json
 Activates ACF's Local JSON and provides a home for files. The README has important notes. (WordPress plugin)
 
+# Status
+Initial development
+
 # Warnings
 ## Requires ACF
 I believe the free version has Local JSON. [Get it here.] (https://www.advancedcustomfields.com/blog/installing-and-upgrading-to-the-latest-version-of-acf/)
